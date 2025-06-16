@@ -1,0 +1,5207 @@
+[
+  {
+    "serie": "DRI",
+    "nom": "Scarabrute de Luth",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Yanma",
+    "illustrateur": "svlt"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Yanmega ex",
+    "illustrateur": "takuyoa"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Pomdepik",
+    "illustrateur": "YASHIRO Nanaco"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Balignon",
+    "illustrateur": "IKEDA Saki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Chapignon",
+    "illustrateur": "nisimono"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Rosélia de Cynthia",
+    "illustrateur": "nisimono"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Roserade de Cynthia",
+    "illustrateur": "En Morikura"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Motisma Tonte",
+    "illustrateur": "Rianti Hidayat"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Shaymin",
+    "illustrateur": "tono"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Crabicoque",
+    "illustrateur": "Kanami Ogata"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Crabaraque",
+    "illustrateur": "Po-Suzuki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Mimantis",
+    "illustrateur": "mashu"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Floramantis",
+    "illustrateur": "Masako Tomii"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Larvadar de la Team Rocket",
+    "illustrateur": "buchi"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Verpom",
+    "illustrateur": "Tetsu Kayama"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Pomdramour",
+    "illustrateur": "Shigenori Negishi"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Pomdorochi",
+    "illustrateur": "Anesaki Dynamic"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Tissenboule de la Team Rocket",
+    "illustrateur": "Saboteri"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Filentrappe de la Team Rocket",
+    "illustrateur": "Taiga Kasai"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Olivini",
+    "illustrateur": "Yuka Morii"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Olivado",
+    "illustrateur": "Felicia Chen"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Arboliva ex",
+    "illustrateur": "PLANETA Tsuji"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Léboulérou",
+    "illustrateur": "Toshinao Aoki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Bérasca ex",
+    "illustrateur": "N-DESIGN Inc."
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ogerpon Masque Turquoise",
+    "illustrateur": "Tomomi Ozaki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Caninos",
+    "illustrateur": "ryoma uratsuka"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Arcanin",
+    "illustrateur": "Nisota Niso"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ponyta",
+    "illustrateur": "Ayako Ozaki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Galopa",
+    "illustrateur": "SIE NANAHARA"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Sulfura ex de la Team Rocket",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Héricendre de Luth",
+    "illustrateur": "Susumu Maeya"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Feurisson de Luth",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Typhlosion de Luth",
+    "illustrateur": "danciao"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Limagma de Luth",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Volcaropod de Luth",
+    "illustrateur": "kodama"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Malosse de la Team Rocket",
+    "illustrateur": "Krgc"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Démolosse de la Team Rocket",
+    "illustrateur": "Anesaki Dynamic"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ho-Oh ex de Luth",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Poussifeu",
+    "illustrateur": "Tika Matsuno"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Galifeu",
+    "illustrateur": "yuu"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Braségali",
+    "illustrateur": "Kazumasa Yasukuni"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Motisma Chaleur",
+    "illustrateur": "Dsuke"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ogerpon Masque du Fourneau",
+    "illustrateur": "HYOGONOSUKE"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Psykokwak d'Ondine",
+    "illustrateur": "Yuu Nishida"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Stari d'Ondine",
+    "illustrateur": "Shinya Komatsu"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Staross d'Ondine",
+    "illustrateur": "Natsumi Yoshida"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Magicarpe d'Ondine",
+    "illustrateur": "Shimaris Yukichi"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Léviator d'Ondine",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Lokhlass d'Ondine",
+    "illustrateur": "En Morikura"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Artikodin de la Team Rocket",
+    "illustrateur": "Mitsuhiro Arita"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Barpau de Cynthia",
+    "illustrateur": "kamonabe"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Milobellus de Cynthia",
+    "illustrateur": "You Iribi"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Coquiperl",
+    "illustrateur": "Miki Tanaka"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Serpang",
+    "illustrateur": "Scav"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Rosabyss",
+    "illustrateur": "Naoyo Kimura"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Mustébouée",
+    "illustrateur": "Ayako Ozaki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Mustéflott",
+    "illustrateur": "Shibuzoh."
+  },
+  {
+    "serie": "DRI",
+    "nom": "Blizzi",
+    "illustrateur": "Tomokazu Komiya"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Blizzaroi",
+    "illustrateur": "kamonabe"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Motisma Lavage",
+    "illustrateur": "miki kudo"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Embrochet",
+    "illustrateur": "OKUBO"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Hastacuda",
+    "illustrateur": "Kyoko Umemoto"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Piétacé",
+    "illustrateur": "sui"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Balbalèze ex",
+    "illustrateur": "kawayoo"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Oyacata ex",
+    "illustrateur": "N-DESIGN Inc."
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ogerpon Masque du Puits",
+    "illustrateur": "rika"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Élektek",
+    "illustrateur": "Amelicart"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Élekable ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Électhor de la Team Rocket",
+    "illustrateur": "Nurikabe"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Pichu de Luth",
+    "illustrateur": "Narumi Sato"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Wattouat de la Team Rocket",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Lainergie de la Team Rocket",
+    "illustrateur": "Jerky"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Pharamp de la Team Rocket",
+    "illustrateur": "Shiburingaru"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Dynavolt",
+    "illustrateur": "Narano"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Élecsprint",
+    "illustrateur": "Izucch"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Motisma",
+    "illustrateur": "Yoshimi Miyoshi"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Zeraora",
+    "illustrateur": "Ryuta Fuse"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Soporifik de la Team Rocket",
+    "illustrateur": "matazo"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Hypnomade de la Team Rocket",
+    "illustrateur": "Yuya Oka"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Mewtwo ex de la Team Rocket",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Qulbutoké de la Team Rocket",
+    "illustrateur": "Kazumasa Yasukuni"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Balbuto de Pierre",
+    "illustrateur": "Tonji Matsuno"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Kaorine de Pierre",
+    "illustrateur": "nagimiso"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Korillon de la Team Rocket",
+    "illustrateur": "Mina Nakai"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Strassie de Pierre",
+    "illustrateur": "Ligton"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Mimiqui de la Team Rocket",
+    "illustrateur": "DOM"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Coléodôme de la Team Rocket",
+    "illustrateur": "Scav"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Astronelle de la Team Rocket",
+    "illustrateur": "Shin Nagasawa"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Férosinge",
+    "illustrateur": "Ayako Ozaki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Colossinge",
+    "illustrateur": "GOTO minori"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Courrousinge",
+    "illustrateur": "Shiburingaru"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Simularbre de Luth",
+    "illustrateur": "OKACHEKE"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Embrylex de la Team Rocket",
+    "illustrateur": "Kuroimori"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ymphect de la Team Rocket",
+    "illustrateur": "Izucch"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Tyranocif de la Team Rocket",
+    "illustrateur": "Ryuta Fuse"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Tarinor",
+    "illustrateur": "Oku"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Tarinorme",
+    "illustrateur": "sowsow"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Meditikka",
+    "illustrateur": "MINAMINAMI Take"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Charmina",
+    "illustrateur": "Whisker"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Regirock ex",
+    "illustrateur": "Nisota Niso"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Griknot de Cynthia",
+    "illustrateur": "Tomomi Ozaki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Carmache de Cynthia",
+    "illustrateur": "Taira Akitsu"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Carchacrok ex de Cynthia",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Hippopotas",
+    "illustrateur": "Minahamu"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Hippodocus",
+    "illustrateur": "Minahamu"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Tiboudet",
+    "illustrateur": "Aliya Chen"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Bourrinos",
+    "illustrateur": "Uta"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Terracool de Pepper",
+    "illustrateur": "Fujimoto Gold"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Terracruel de Pepper",
+    "illustrateur": "Yuya Oka"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ogerpon Masque de la Pierre",
+    "illustrateur": "Kazumasa Yasukuni"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Abo de la Team Rocket",
+    "illustrateur": "KEIICHIRO ITO"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Arbok de la Team Rocket",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nidoran♀ de la Team Rocket",
+    "illustrateur": "REND"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nidorina de la Team Rocket",
+    "illustrateur": "Taiga Kasai"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nidoqueen de la Team Rocket",
+    "illustrateur": "hncl"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nidoran♂ de la Team Rocket",
+    "illustrateur": "buchi"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nidorino de la Team Rocket",
+    "illustrateur": "KEIICHIRO ITO"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nidoking ex de la Team Rocket",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nosferapti de la Team Rocket",
+    "illustrateur": "toi8"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nosferalto de la Team Rocket",
+    "illustrateur": "AKIRA EGAWA"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nostenfer ex de la Team Rocket",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Tadmorv de la Team Rocket",
+    "illustrateur": "Mousho"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Grotadmorv de la Team Rocket",
+    "illustrateur": "Uta"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Smogo de la Team Rocket",
+    "illustrateur": "kodama"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Smogogo de la Team Rocket",
+    "illustrateur": "matazo"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Cornèbre de la Team Rocket",
+    "illustrateur": "Mugi Hamada"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Farfuret de la Team Rocket",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Spiritomb de Cynthia",
+    "illustrateur": "satoma"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Chacripan de Rosemary",
+    "illustrateur": "REND"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Léopardus de Rosemary",
+    "illustrateur": "Hasuno"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Baggiguane de Rosemary",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Baggaïd de Rosemary",
+    "illustrateur": "Kazumasa Yasukuni"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Grimalin de Rosemary",
+    "illustrateur": "KEIICHIRO ITO"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Fourbelin de Rosemary",
+    "illustrateur": "NC Empire"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Angoliath ex de Rosemary",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Morpeko de Rosemary",
+    "illustrateur": "Mina Nakai"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Grondogue de Pepper",
+    "illustrateur": "Mina Nakai"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Dogrino ex de Pepper",
+    "illustrateur": "akagi"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Foretress",
+    "illustrateur": "Wintr Wandr"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Airmure",
+    "illustrateur": "Shin Nagasawa"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Airmure de Pierre",
+    "illustrateur": "Nisota Niso"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Terhal de Pierre",
+    "illustrateur": "Takeshi Nakamura"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Métang de Pierre",
+    "illustrateur": "Anesaki Dynamic"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Métalosse ex de Pierre",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Zamazenta",
+    "illustrateur": "Mitsuhiro Arita"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Rattata de la Team Rocket",
+    "illustrateur": "Dsuke"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Rattatac de la Team Rocket",
+    "illustrateur": "Uninori"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Miaouss de la Team Rocket",
+    "illustrateur": "Megumi Mizutani"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Persian ex de la Team Rocket",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Kangourex",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Tauros",
+    "illustrateur": "yuu"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Porygon de la Team Rocket",
+    "illustrateur": "Oswaldo KATO"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Porygon2 de la Team Rocket",
+    "illustrateur": "Takeshi Nakamura"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Porygon-Z de la Team Rocket",
+    "illustrateur": "Anesaki Dynamic"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nirondelle",
+    "illustrateur": "Ayako Ozaki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Hélédelle",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Rongourmand de Pepper",
+    "illustrateur": "Oswaldo KATO"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Rongrigou de Pepper",
+    "illustrateur": "Akira Komayama"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Tapatoès",
+    "illustrateur": "Julie Hang"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Sandwich de Pepper",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Poids Pouvoir de Cynthia",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "DRI",
+    "nom": "Engouement de la MC",
+    "illustrateur": "Cona Nitanda"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Recycleur d'Énergie",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Aventure de Luth",
+    "illustrateur": "Iori Suzuki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Grotte Granite",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Juge",
+    "illustrateur": "kantaro"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Cendre Sacrée",
+    "illustrateur": "Eske Yoshinob"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Arène de Smashings",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Amos de la Team Rocket",
+    "illustrateur": "Hideki Ishikawa"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ariane de la Team Rocket",
+    "illustrateur": "hncl"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Robot-bêtant de la Team Rocket",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Usine de la Team Rocket",
+    "illustrateur": "imoniii"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Giovanni de la Team Rocket",
+    "illustrateur": "akagi"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Super Ball de la Team Rocket",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Lambda de la Team Rocket",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Lance de la Team Rocket",
+    "illustrateur": "Naoki Saito"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Émetteur-Récepteur de la Team Rocket",
+    "illustrateur": "inose yukie"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Bombe Risquée de la Team Rocket",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Tour d'Observation de la Team Rocket",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Machine à CT",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "DRI",
+    "nom": "Énergie de la Team Rocket",
+    "illustrateur": "—"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Yanma",
+    "illustrateur": "Ayako Ozaki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Roserade de Cynthia",
+    "illustrateur": "rika"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Shaymin",
+    "illustrateur": "Heisuke Kitazawa"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Crabaraque",
+    "illustrateur": "Takumi Wada"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Filentrappe de la Team Rocket",
+    "illustrateur": "NC Empire"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Pomdorochi",
+    "illustrateur": "Jerky"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Galopa",
+    "illustrateur": "Rond"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Typhlosion de Luth",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Démolosse de la Team Rocket",
+    "illustrateur": "nagimiso"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Braségali",
+    "illustrateur": "kodama"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Psykokwak d'Ondine",
+    "illustrateur": "OKACHEKE"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Lokhlass d'Ondine",
+    "illustrateur": "Orca"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Coquiperl",
+    "illustrateur": "Mori Yuu"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Dynavolt",
+    "illustrateur": "Nakamura Ippan"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Motisma",
+    "illustrateur": "Taiga Kayama"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Astronelle de la Team Rocket",
+    "illustrateur": "HYOGONOSUKE"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Smogogo de la Team Rocket",
+    "illustrateur": "Yukihiro Tada"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Cornèbre de la Team Rocket",
+    "illustrateur": "Akira Komayama"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Zamazenta",
+    "illustrateur": "Takumi Wada"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Rattatac de la Team Rocket",
+    "illustrateur": "Mékayu"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Miaouss de la Team Rocket",
+    "illustrateur": "Shimaris Yukichi"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Kangourex",
+    "illustrateur": "Mékayu"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Rongrigou de Pepper",
+    "illustrateur": "Natsumi Yoshida"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Yanmega ex",
+    "illustrateur": "takuyoa"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Arboliva ex",
+    "illustrateur": "PLANETA Tsuji"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Sulfura ex de la Team Rocket",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ho-Oh ex de Luth",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Balbalèze ex",
+    "illustrateur": "PLANETA Tsuji"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Oyacata ex",
+    "illustrateur": "N-DESIGN Inc."
+  },
+  {
+    "serie": "DRI",
+    "nom": "Élekable ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Mewtwo ex de la Team Rocket",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Regirock ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Carchacrok ex de Cynthia",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nidoking ex de la Team Rocket",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nostenfer ex de la Team Rocket",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Dogrino ex de Pepper",
+    "illustrateur": "PLANETA Igarashi"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Persian ex de la Team Rocket",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Engouement de la MC",
+    "illustrateur": "Cona Nitanda"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Aventure de Luth",
+    "illustrateur": "Iori Suzuki"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Juge",
+    "illustrateur": "kantaro"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Amos de la Team Rocket",
+    "illustrateur": "Hideki Ishikawa"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ariane de la Team Rocket",
+    "illustrateur": "hncl"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Giovanni de la Team Rocket",
+    "illustrateur": "akagi"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Lambda de la Team Rocket",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Lance de la Team Rocket",
+    "illustrateur": "Naoki Saito"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Yanmega ex",
+    "illustrateur": "Tonji Matsuno"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Sulfura ex de la Team Rocket",
+    "illustrateur": "AKIRA EGAWA"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ho-Oh ex de Luth",
+    "illustrateur": "Atsushi Furusawa"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Mewtwo ex de la Team Rocket",
+    "illustrateur": "Iwamoto05"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Carchacrok ex de Cynthia",
+    "illustrateur": "HICO KIM"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nidoking ex de la Team Rocket",
+    "illustrateur": "Uninori"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nostenfer ex de la Team Rocket",
+    "illustrateur": "cochi8i"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Dogrino ex de Pepper",
+    "illustrateur": "Yuriko Akase"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Aventure de Luth",
+    "illustrateur": "Kariya"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ariane de la Team Rocket",
+    "illustrateur": "Yoshioka"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Giovanni de la Team Rocket",
+    "illustrateur": "Krgc"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Ho-Oh ex de Luth",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Mewtwo ex de la Team Rocket",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Carchacrok ex de Cynthia",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Nostenfer ex de la Team Rocket",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Tour de Brouillage",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "DRI",
+    "nom": "Levalendura",
+    "illustrateur": "MARINA Chikazawa"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Chenipan",
+    "illustrateur": "Shimaris Yukichi"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Chrysacier",
+    "illustrateur": "OKUBO"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Papilusion",
+    "illustrateur": "satoma"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Paras",
+    "illustrateur": "Ayako Ozaki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Parasect",
+    "illustrateur": "Tetsu Kayama"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Chlorobule",
+    "illustrateur": "Shibuzoh."
+  },
+  {
+    "serie": "JTG",
+    "nom": "Fragilady",
+    "illustrateur": "Jiro Sasumo"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Maracachi",
+    "illustrateur": "Dsuke"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Carabing",
+    "illustrateur": "Yuka Morii"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Trompignon",
+    "illustrateur": "Saboteri"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Gaulet ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Escargaume",
+    "illustrateur": "Toshinao Aoki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Limaspeed",
+    "illustrateur": "Kazumasa Yasukuni"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Fermite",
+    "illustrateur": "KEIICHIRO ITO"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Viridium",
+    "illustrateur": "Anesaki Dynamic"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Poussacha",
+    "illustrateur": "Mina Nakai"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Matourgeon",
+    "illustrateur": "Felicia Chen"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Miascarade",
+    "illustrateur": "kodama"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Lilliterelle",
+    "illustrateur": "Ayako Ozaki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Magmar",
+    "illustrateur": "Naoyo Kimura"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Maganon",
+    "illustrateur": "Tonji Matsuno"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Poussifeu",
+    "illustrateur": "OKACHEKE"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Galifeu",
+    "illustrateur": "Fujimoto Gold"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Braségali ex",
+    "illustrateur": "takuyoa"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Chartor",
+    "illustrateur": "kodama"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Darumarond de N",
+    "illustrateur": "Gemi"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Darumacho de N",
+    "illustrateur": "nagimiso"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Pyronille",
+    "illustrateur": "Kyoko Umemoto"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Pyrax",
+    "illustrateur": "Mitsuhiro Arita"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Reshiram ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Volcanion ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Artikodin",
+    "illustrateur": "Takumi Wada"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Rémoraid",
+    "illustrateur": "Minahamu"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Octillery",
+    "illustrateur": "Toshinao Aoki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Nénupiot",
+    "illustrateur": "Ayako Ozaki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Lombre",
+    "illustrateur": "Mousho"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Ludicolo",
+    "illustrateur": "Jerky"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Goélise",
+    "illustrateur": "Mékayu"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Bekipan",
+    "illustrateur": "Nelnal"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Wailmer",
+    "illustrateur": "Shinya Mizuno"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Wailord",
+    "illustrateur": "Takeshi Nakamura"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Regice",
+    "illustrateur": "Takumi Wada"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Délestin ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Racaillou d'Alola",
+    "illustrateur": "svlt"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Gravalanch d'Alola",
+    "illustrateur": "HYOGONOSUKE"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Grolem d'Alola",
+    "illustrateur": "Takeshi Nakamura"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Voltorbe de Mashynn",
+    "illustrateur": "Kazumasa Yasukuni"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Électrode de Mashynn",
+    "illustrateur": "GOTO minori"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Statitik de N",
+    "illustrateur": "Iori Suzuki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Togedemaru",
+    "illustrateur": "Susumu Maeya"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Tokorico ex",
+    "illustrateur": "PLANETA Igarashi"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Têtampoule de Mashynn",
+    "illustrateur": "kurumitsu"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Ampibidou ex de Mashynn",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Zapétrel de Mashynn",
+    "illustrateur": "Akira Komayama"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Fulgulairo de Mashynn",
+    "illustrateur": "chibi"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Mélofée ex de Lilie",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Ossatueur d'Alola",
+    "illustrateur": "Uta"
+  },
+  {
+    "serie": "JTG",
+    "nom": "M. Mime",
+    "illustrateur": "GOTO minori"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Polichombr",
+    "illustrateur": "miki kudo"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Branette",
+    "illustrateur": "Anesaki Dynamic"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Terhal",
+    "illustrateur": "Izucch"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Métang",
+    "illustrateur": "Oswaldo KATO"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Métalosse",
+    "illustrateur": "Mitsuhiro Arita"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Cryptéro de N",
+    "illustrateur": "Shiburingaru"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Plumeline",
+    "illustrateur": "aspara"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Bombydou de Lilie",
+    "illustrateur": "Saya Tsuruta"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Rubombelle de Lilie",
+    "illustrateur": "mashu"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Guérilande de Lilie",
+    "illustrateur": "Narumi Sato"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Mimiqui ex",
+    "illustrateur": "PLANETA Igarashi"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Sinistrail",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Grimalin",
+    "illustrateur": "Haru Akasaka"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Fourbelin",
+    "illustrateur": "Lee HyunJung"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Angoliath",
+    "illustrateur": "Nisota Niso"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Crèmy",
+    "illustrateur": "Shibuzoh."
+  },
+  {
+    "serie": "JTG",
+    "nom": "Charmilly ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Osselait",
+    "illustrateur": "Mugi Hamada"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Marcacrin",
+    "illustrateur": "REND"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Cochignon",
+    "illustrateur": "Aliya Chen"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Mammochon ex",
+    "illustrateur": "Nisota Niso"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Embrylex",
+    "illustrateur": "Dsuke"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Ymphect",
+    "illustrateur": "Scav"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Regirock",
+    "illustrateur": "Uta"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Pandespiègle",
+    "illustrateur": "Yuriko Akase"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Rocabot",
+    "illustrateur": "Yoshimi Miyoshi"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Lougaroc",
+    "illustrateur": "Shiburingaru"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Dunaja de Nabil",
+    "illustrateur": "aspara"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Dunaconda de Nabil",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Terracool",
+    "illustrateur": "osare"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Terracruel",
+    "illustrateur": "Masako Tomii"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Craparoi",
+    "illustrateur": "Shinya Komatsu"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Smogo",
+    "illustrateur": "Rond"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Smogogo",
+    "illustrateur": "KEIICHIRO ITO"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Axoloto de Paldéa",
+    "illustrateur": "Lee HyunJung"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Terraiste de Paldéa ex",
+    "illustrateur": "PLANETA Tsuji"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Tyranocif",
+    "illustrateur": "AKIRA EGAWA"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Chacripan de N",
+    "illustrateur": "Keisin"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Zorua de N",
+    "illustrateur": "Jiro Sasumo"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Zoroark ex de N",
+    "illustrateur": "takuyoa"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Pandarbare",
+    "illustrateur": "nagimiso"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Gambex",
+    "illustrateur": "AKIRA EGAWA"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Lestombaile",
+    "illustrateur": "Gemi"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Lançargot",
+    "illustrateur": "Takumi Wada"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Tic de N",
+    "illustrateur": "Saboteri"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Clic de N",
+    "illustrateur": "KEIICHIRO ITO"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Cliticlic de N",
+    "illustrateur": "matazo"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Limonde de Galar",
+    "illustrateur": "Aya Kusube"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Magearna",
+    "illustrateur": "rika"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Corvaillus de Nabil",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Charibari",
+    "illustrateur": "kodama"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Pachyradjah",
+    "illustrateur": "Ryuta Fuse"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Zacian ex de Nabil",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Draby",
+    "illustrateur": "Miki Tanaka"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Drackhaus",
+    "illustrateur": "Julie Hang"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Drattak ex",
+    "illustrateur": "toriyufu"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Drakkarmin",
+    "illustrateur": "kawayoo"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Reshiram de N",
+    "illustrateur": "rika"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Ronflex de Nabil",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Fouinette",
+    "illustrateur": "Taiga Kayama"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Fouinar",
+    "illustrateur": "Tomomi Ozaki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Insolourdo",
+    "illustrateur": "Asako Ito"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Deusolourdo ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Kecleon",
+    "illustrateur": "0313"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Tropius",
+    "illustrateur": "Atsuya Uki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Nanméouïe",
+    "illustrateur": "Minahamu"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Chinchidou",
+    "illustrateur": "Oswaldo KATO"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Pashmilla",
+    "illustrateur": "En Morikura"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Sonistrelle",
+    "illustrateur": "Tomokazu Komiya"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Bruyverne",
+    "illustrateur": "Anesaki Dynamic"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Dodoala",
+    "illustrateur": "Natsumi Yoshida"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Draïeul",
+    "illustrateur": "Tetsu Kayama"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Rongourmand",
+    "illustrateur": "sowsow"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Rongrigou",
+    "illustrateur": "Jerky"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Minisange de Nabil",
+    "illustrateur": "Shinya Mizuno"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Bleuseille de Nabil",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Moumouton de Nabil",
+    "illustrateur": "Tomomi Ozaki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Moumouflon de Nabil",
+    "illustrateur": "Ryota Murayama"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Nigosier",
+    "illustrateur": "Tomomi Ozaki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Nigosier de Nabil",
+    "illustrateur": "Saboteri"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Gourmelet",
+    "illustrateur": "OKACHEKE"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Fragroin",
+    "illustrateur": "Mina Nakai"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Tapatoès",
+    "illustrateur": "sowsow"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Milio et Naire",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Entraînement de Karatéka",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Entraînement de Karatéka",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Entraînement de Karatéka",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Exploration de Pierre",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Sac de Nabil",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Bandeau Choix de Nabil",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Esprit Combatif d'Iris",
+    "illustrateur": "yuu"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Levalendura",
+    "illustrateur": "MARINA Chikazawa"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Perle de Lilie",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Palais de N",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "JTG",
+    "nom": "PP Plus de N",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Paddoxton",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Recherches Professorales Professeur Olim",
+    "illustrateur": "Taira Akitsu"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Billet à Échanger",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "JTG",
+    "nom": "Petite Frappe",
+    "illustrateur": "Hideki Ishikawa"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Super Potion",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "JTG",
+    "nom": "Énergie Piquante",
+    "illustrateur": "—"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Maracachi",
+    "illustrateur": "Ounishi"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Artikodin",
+    "illustrateur": "Kuroimori"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Wailord",
+    "illustrateur": "Katsunori Sato"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Fulgulairo de Mashynn",
+    "illustrateur": "Terada Tera"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Rubombelle de Lilie",
+    "illustrateur": "saino misaki"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Marcacrin",
+    "illustrateur": "Nakamura Ippan"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Lougaroc",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Reshiram de N",
+    "illustrateur": "Bun Toujo"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Fouinar",
+    "illustrateur": "REND"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Sonistrelle",
+    "illustrateur": "sowsow"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Moumouton de Nabil",
+    "illustrateur": "MINAMINAMI Take"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Volcanion ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Ampibidou ex de Mashynn",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Mélofée ex de Lilie",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Mammochon ex",
+    "illustrateur": "N-DESIGN Inc."
+  },
+  {
+    "serie": "JTG",
+    "nom": "Zoroark ex de N",
+    "illustrateur": "takuyoa"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Zacian ex de Nabil",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Drattak ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Deusolourdo ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Exploration de Pierre",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Esprit Combatif d'Iris",
+    "illustrateur": "yuu"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Petite Frappe",
+    "illustrateur": "Hideki Ishikawa"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Volcanion ex",
+    "illustrateur": "akagi"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Ampibidou ex de Mashynn",
+    "illustrateur": "Yuu Nishida"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Mélofée ex de Lilie",
+    "illustrateur": "Susumu Maeya"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Zoroark ex de N",
+    "illustrateur": "Megumi Mizutani"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Zacian ex de Nabil",
+    "illustrateur": "DOM"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Drattak ex",
+    "illustrateur": "Tsuyoshi Nagano"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Ampibidou ex de Mashynn",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Zoroark ex de N",
+    "illustrateur": "takuyoa"
+  },
+  {
+    "serie": "JTG",
+    "nom": "Énergie Piquante",
+    "illustrateur": "—"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Noeunoeuf",
+    "illustrateur": "Iori Suzuki"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Noadkoko",
+    "illustrateur": "Dsuke"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Scarabrute",
+    "illustrateur": "Uninori"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Rozbouton",
+    "illustrateur": "Yoriyuki Ikegami"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Phyllali",
+    "illustrateur": "Kuroimori"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Phyllali ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Doudouvet",
+    "illustrateur": "Kyoko Umemoto"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Farfaduvet",
+    "illustrateur": "Mizue"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Verpom",
+    "illustrateur": "Yoriyuki Ikegami"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Pomdramour",
+    "illustrateur": "Saboteri"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Pomdorochi ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ogerpon Masque Turquoise ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Pyroli",
+    "illustrateur": "Ryota Murayama"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Pyroli ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Hélionceau",
+    "illustrateur": "Whisker"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Némélios",
+    "illustrateur": "Takeshi Nakamura"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ogerpon Masque du Fourneau ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ramoloss",
+    "illustrateur": "Natsumi Yoshida"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Roigada",
+    "illustrateur": "Oswaldo KATO"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Poissirène",
+    "illustrateur": "saino misaki"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Poissoroy",
+    "illustrateur": "Nelnal"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Aquali",
+    "illustrateur": "kirisAki"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Aquali ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Suicune",
+    "illustrateur": "Kuroimori"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Givrali",
+    "illustrateur": "rika"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Givrali ex",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ogerpon Masque du Puits ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Pikachu ex",
+    "illustrateur": "N-DESIGN Inc."
+  },
+  {
+    "serie": "PRE",
+    "nom": "Voltali",
+    "illustrateur": "sui"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Voltali ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Paume-de-Fer ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Épine-de-Fer ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Mentali",
+    "illustrateur": "Kariya"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Mentali ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Skelénox",
+    "illustrateur": "IKEDA Saki"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Téraclope",
+    "illustrateur": "Aya Kusube"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Noctunoir",
+    "illustrateur": "danciao"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Fluvetin",
+    "illustrateur": "ryoma uratsuka"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Cocotine",
+    "illustrateur": "Wintr Wandr"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Nymphali",
+    "illustrateur": "MINAMINAMI Take"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Nymphali ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Hurle-Queue",
+    "illustrateur": "Ryota Murayama"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Flotte-Mèche",
+    "illustrateur": "kodama"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Fortusimia",
+    "illustrateur": "kodama"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Favianos",
+    "illustrateur": "Kouki Saitou"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Roc-de-Fer",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Embrylex",
+    "illustrateur": "Shimaris Yukichi"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ymphect",
+    "illustrateur": "Shigenori Negishi"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Groudon",
+    "illustrateur": "Uta"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Riolu",
+    "illustrateur": "Tika Matsuno"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Lucario ex",
+    "illustrateur": "PLANETA Tsuji"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Hippopotas",
+    "illustrateur": "HYOGONOSUKE"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Hippodocus",
+    "illustrateur": "Kurata So"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ursaking Lune Vermeille",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Fort-Ivoire",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Pelage-Sablé ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Félicanis",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ogerpon Masque de la Pierre ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Noctali",
+    "illustrateur": "matazo"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Noctali ex",
+    "illustrateur": "takuyoa"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Farfuret",
+    "illustrateur": "Kurata So"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Malosse",
+    "illustrateur": "Mékayu"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Démolosse",
+    "illustrateur": "kawayoo"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Tyranocif ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Rugit-Lune",
+    "illustrateur": "hncl"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Archéomire",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Archéodong",
+    "illustrateur": "Scav"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Heatran",
+    "illustrateur": "Tonji Matsuno"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Duralugon",
+    "illustrateur": "Takeshi Nakamura"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Pondralugon",
+    "illustrateur": "Oswaldo KATO"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Fantyrm",
+    "illustrateur": "Scav"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Dispareptil",
+    "illustrateur": "cochi8i"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Lanssorien ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Évoli",
+    "illustrateur": "Naoyo Kimura"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Évoli ex",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ronflex ex",
+    "illustrateur": "N-DESIGN Inc."
+  },
+  {
+    "serie": "PRE",
+    "nom": "Hoothoot",
+    "illustrateur": "Nakamura Ippan"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Noarfang",
+    "illustrateur": "matazo"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Insolourdo",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Deusolourdo",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Écrémeuh",
+    "illustrateur": "Keisin"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Lugia ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Laporeille",
+    "illustrateur": "Naoki Saito"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Lockpin",
+    "illustrateur": "Tika Matsuno"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Motisma Hélice",
+    "illustrateur": "Toshinao Aoki"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Regigigas",
+    "illustrateur": "chibi"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Shaymin",
+    "illustrateur": "Amelicart"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Couafarel",
+    "illustrateur": "Keisin"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Brutalibré",
+    "illustrateur": "KEIICHIRO ITO"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Sonistrelle",
+    "illustrateur": "Masako Tomii"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Bruyverne ex",
+    "illustrateur": "PLANETA Igarashi"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Terapagos ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Nérine",
+    "illustrateur": "Akira Komayama"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Abîme Zéro",
+    "illustrateur": "MARINA Chikazawa"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Mochi de Servitude",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Entraînement de Karatéka",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Entraînement de Karatéka",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Entraînement de Karatéka",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Entraînement de Karatéka",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Bria",
+    "illustrateur": "Naoki Saito"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Poffin Copain-Copain",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Kit Attrape-Insecte",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Roseille",
+    "illustrateur": "kantaro"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Décodage de Décryptomane",
+    "illustrateur": "Taira Akitsu"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Rubépin",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Urne Terrestre",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Guide d'Exploration",
+    "illustrateur": "Hideki Ishikawa"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Lieu de la Fête",
+    "illustrateur": "MARINA Chikazawa"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Amis de Paldea",
+    "illustrateur": "Cona Nitanda"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Trompette de Verre",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Baie Fraigo",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "PRE",
+    "nom": "Art Secret de Jeannine",
+    "illustrateur": "Taira Akitsu"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Kassis",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Taro",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Compétence d'Okuba",
+    "illustrateur": "hncl"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Max Canne",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ceinture Maximale",
+    "illustrateur": "inose yukie"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Masque de Monstre",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Attrape-Ultime",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Vitalité de la Professeure Olim",
+    "illustrateur": "Megumi Mizutani"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Plan du Professeur Turum",
+    "illustrateur": "hncl"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Recherches Professorales Professeur Chen",
+    "illustrateur": "Hideki Ishikawa"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Recherches Professorales Professeur Orme",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Recherches Professorales Professeur Sorbier",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Recherches Professorales Professeur Platane",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Planche de Sauvetage",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Perche à Motismart",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "PRE",
+    "nom": "Rappel Cyclone",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Cristal Scintillant",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Techno-Radar",
+    "illustrateur": "inose yukie"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Détecteur de Trésors",
+    "illustrateur": "inose yukie"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Nérine",
+    "illustrateur": "Akira Komayama"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Erio",
+    "illustrateur": "kantaro"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Erio",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Colza",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Nèflie",
+    "illustrateur": "Ryuta Fuse"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Amis de Paldea",
+    "illustrateur": "Cona Nitanda"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Brome",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Compétence d'Okuba",
+    "illustrateur": "hncl"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Meloco",
+    "illustrateur": "Naoki Saito"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ortiga",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Mora",
+    "illustrateur": "hncl"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Thaïm",
+    "illustrateur": "Yuu Nishida"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Phyllali ex",
+    "illustrateur": "Jiro Sasumo"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ogerpon Masque Turquoise ex",
+    "illustrateur": "Yukihiro Tada"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Pyroli ex",
+    "illustrateur": "Nurikabe"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Malvalame ex",
+    "illustrateur": "akagi"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ogerpon Masque du Fourneau ex",
+    "illustrateur": "Yukihiro Tada"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Aquali ex",
+    "illustrateur": "Narano"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Givrali ex",
+    "illustrateur": "Kamome Shirahama"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Superdofin ex",
+    "illustrateur": "Tetsuo Hara"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ogerpon Masque du Puits ex",
+    "illustrateur": "Yukihiro Tada"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Voltali ex",
+    "illustrateur": "kantaro"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Paume-de-Fer ex",
+    "illustrateur": "Kazumasa Yasukuni"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Mentali ex",
+    "illustrateur": "sui"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Nymphali ex",
+    "illustrateur": "Cona Nitanda"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Garde-de-Fer ex",
+    "illustrateur": "danciao"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Chef-de-Fer ex",
+    "illustrateur": "OKUBO"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Pelage-Sablé ex",
+    "illustrateur": "Tetsu Kayama"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ogerpon Masque de la Pierre ex",
+    "illustrateur": "Yukihiro Tada"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Noctali ex",
+    "illustrateur": "YASHIRO Nanaco"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Rugit-Lune ex",
+    "illustrateur": "Shinji Kanda"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Pêchaminus ex",
+    "illustrateur": "osare"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Gromago ex",
+    "illustrateur": "Shigenori Negishi"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Lanssorien ex",
+    "illustrateur": "Jerky"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ire-Foudre ex",
+    "illustrateur": "Uninori"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Évoli ex",
+    "illustrateur": "tono"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ursaking Lune Vermeille ex",
+    "illustrateur": "Yano Keiji"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Terapagos ex",
+    "illustrateur": "mashu"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Nérine",
+    "illustrateur": "Tomowaka"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Rubépin",
+    "illustrateur": "Tomowaka"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Irido",
+    "illustrateur": "Tomowaka"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Art Secret de Jeannine",
+    "illustrateur": "Ligton"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Kassis",
+    "illustrateur": "Iori Suzuki"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Taro",
+    "illustrateur": "Tomowaka"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Vert-de-Fer ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Ogerpon Masque Turquoise ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Serpente-Eau ex",
+    "illustrateur": "takuyoa"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Pikachu ex",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "PRE",
+    "nom": "Terapagos ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Noeunoeuf",
+    "illustrateur": "Tetsu Kayama"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Noeunoeuf",
+    "illustrateur": "OKUBO"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Noadkoko",
+    "illustrateur": "Oswaldo KATO"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Fermite ex",
+    "illustrateur": "PLANETA Tsuji"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Lépidonille",
+    "illustrateur": "Iori Suzuki"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pérégrain",
+    "illustrateur": "tono"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Prismillon",
+    "illustrateur": "Amelicart"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Spododo",
+    "illustrateur": "Tomokazu Komiya"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Lampignon",
+    "illustrateur": "Aya Kusube"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Sinistrail",
+    "illustrateur": "Mori Yuu"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Zarude",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pimito",
+    "illustrateur": "Julie Hang"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Léboulérou",
+    "illustrateur": "Toshinao Aoki"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Bérasca",
+    "illustrateur": "Masako Tomii"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Chongjian",
+    "illustrateur": "danciao"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Goupix",
+    "illustrateur": "Narumi Sato"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Feunard",
+    "illustrateur": "Kamome Shirahama"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Tauros de Paldéa",
+    "illustrateur": "Taiga Kasai"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Ho-Oh",
+    "illustrateur": "kodama"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Morphéo Soleil",
+    "illustrateur": "osare"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Victini",
+    "illustrateur": "0313"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Flamajou",
+    "illustrateur": "Wintr Wandr"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Flamoutan",
+    "illustrateur": "Taiga Kasai"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pyronille",
+    "illustrateur": "MARINA Chikazawa"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pyrax",
+    "illustrateur": "matazo"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Plumeline",
+    "illustrateur": "Heisuke Kitazawa"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Grillepattes",
+    "illustrateur": "Minahamu"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Scolocendre",
+    "illustrateur": "Aliya Chen"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Chochodile",
+    "illustrateur": "Tomomi Ozaki"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Crocogril",
+    "illustrateur": "Atsuya Uki"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Flâmigator",
+    "illustrateur": "akagi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Charbambin",
+    "illustrateur": "Kariya"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Charbambin",
+    "illustrateur": "Mékayu"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Carmadura",
+    "illustrateur": "DOM"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Malvalame",
+    "illustrateur": "kantaro"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Malvalame ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Scovilain ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Feu-Perçant",
+    "illustrateur": "AKIRA EGAWA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Tauros de Paldéa",
+    "illustrateur": "toi8"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Démanta",
+    "illustrateur": "satoma"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Barpau",
+    "illustrateur": "Kedamahadaitai Yawarakai"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Milobellus ex",
+    "illustrateur": "hncl"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Obalie",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Phogleur",
+    "illustrateur": "Mina Nakai"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Kaimorse",
+    "illustrateur": "Mitsuhiro Arita"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Sancoki",
+    "illustrateur": "Shinya Komatsu"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Hexagel",
+    "illustrateur": "sui"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Kyurem Noir ex",
+    "illustrateur": "kawayoo"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Denticrisse",
+    "illustrateur": "Shibuzoh."
+  },
+  {
+    "serie": "SSP",
+    "nom": "Coiffeton",
+    "illustrateur": "Saboteri"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Canarbello",
+    "illustrateur": "OKACHEKE"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Palmaval",
+    "illustrateur": "nagimiso"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Piétacé",
+    "illustrateur": "Ayako Ozaki"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Balbalèze",
+    "illustrateur": "Uta"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Hotte-de-Fer",
+    "illustrateur": "rika"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Baojian",
+    "illustrateur": "Yuya Oka"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pikachu ex",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Magnéti",
+    "illustrateur": "Hoshino KURO"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Magnéton",
+    "illustrateur": "Nisota Niso"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Magnézone",
+    "illustrateur": "Po-Suzuki"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Motisma",
+    "illustrateur": "Shinya Mizuno"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Zébibron",
+    "illustrateur": "kamonabe"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Zéblitz",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Limonde",
+    "illustrateur": "Miki Tanaka"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Tokorico",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Zapétrel",
+    "illustrateur": "Pani Kobayashi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Fulgulairo",
+    "illustrateur": "KEIICHIRO ITO"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Fulgulairo ex",
+    "illustrateur": "PLANETA Yamashita"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Miraidon",
+    "illustrateur": "Nurikabe"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Togepi",
+    "illustrateur": "Yoko Hishida"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Togetic",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Togekiss",
+    "illustrateur": "Narano"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Marill",
+    "illustrateur": "Shimaris Yukichi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Azumarill",
+    "illustrateur": "Orca"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Lippouti",
+    "illustrateur": "Saya Tsuruta"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Latias ex",
+    "illustrateur": "takuyoa"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Latios",
+    "illustrateur": "kantaro"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Créhelf",
+    "illustrateur": "HYOGONOSUKE"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Créfollet",
+    "illustrateur": "HYOGONOSUKE"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Créfadet",
+    "illustrateur": "HYOGONOSUKE"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Cryptéro",
+    "illustrateur": "svlt"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Tutafeh",
+    "illustrateur": "IKEDA Saki"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Tutankafer",
+    "illustrateur": "Shiburingaru"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Psystigri",
+    "illustrateur": "Natsumi Yoshida"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Mistigrix",
+    "illustrateur": "Yoriyuki Ikegami"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Nymphali ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Dedenne",
+    "illustrateur": "Uninori"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Xerneas",
+    "illustrateur": "Ryuta Fuse"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Plumeline",
+    "illustrateur": "saino misaki"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Bacabouh",
+    "illustrateur": "Koji Nakata"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Trépassable ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Tokopiyon",
+    "illustrateur": "Natsumi Yoshida"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Wimessir",
+    "illustrateur": "Sekio"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Flotillon",
+    "illustrateur": "buchi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Cléopsytra",
+    "illustrateur": "Anesaki Dynamic"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Flotte-Mèche",
+    "illustrateur": "Ebila"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Mordudor",
+    "illustrateur": "Scav"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Férosinge",
+    "illustrateur": "Apios"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Colossinge",
+    "illustrateur": "Felicia Chen"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Courrousinge",
+    "illustrateur": "SIE NANAHARA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Tauros de Paldea",
+    "illustrateur": "Uta"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Phanpy",
+    "illustrateur": "ryoma uratsuka"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Donphan",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Kraknoix",
+    "illustrateur": "Taiga Kayama"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Vibraninf",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Libégon ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Tritosor",
+    "illustrateur": "Scav"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Rototaupe",
+    "illustrateur": "Ounishi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Minotaupe",
+    "illustrateur": "Yuya Oka"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Démétéros",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Quartermac",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Poulpaf",
+    "illustrateur": "Shimaris Yukichi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Krakos",
+    "illustrateur": "KEIICHIRO ITO"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Germéclat",
+    "illustrateur": "Eri Kamei"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Floréclat",
+    "illustrateur": "takashi shiraishi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Koraidon",
+    "illustrateur": "Ryuta Fuse"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Solochi",
+    "illustrateur": "YASHIRO Nanaco"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Diamat",
+    "illustrateur": "chibi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Trioxhydre ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Gribouraigne",
+    "illustrateur": "Yukiko Baba"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Tag-Tag",
+    "illustrateur": "NC Empire"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Taupiqueur d'Alola",
+    "illustrateur": "Akino Fukuji"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Triopikeur d'Alola",
+    "illustrateur": "Dsuke"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Airmure",
+    "illustrateur": "kawayoo"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Registeel",
+    "illustrateur": "Shiburingaru"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Archéomire",
+    "illustrateur": "Nabatame Kazutaka"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Archéodong",
+    "illustrateur": "kawayoo"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Trousselin",
+    "illustrateur": "mingo"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Duralugon",
+    "illustrateur": "Tonji Matsuno"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pondralugon ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Gromago",
+    "illustrateur": "Dsuke"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Chef-de-Fer",
+    "illustrateur": "akagi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Noadkoko d'Alola ex",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Altaria",
+    "illustrateur": "rika"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Dialga",
+    "illustrateur": "Takumi Wada"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Palkia",
+    "illustrateur": "danciao"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Boumata",
+    "illustrateur": "Rianti Hidayat"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Verpom",
+    "illustrateur": "Yuka Morii"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pomdrapi",
+    "illustrateur": "GOTO minori"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Dratatin",
+    "illustrateur": "Oswaldo KATO"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Éthernatos",
+    "illustrateur": "AKIRA EGAWA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Nigirigon ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Évoli",
+    "illustrateur": "Naoyo Kimura"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Ronflex",
+    "illustrateur": "Ounishi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Parecool",
+    "illustrateur": "Aya Kusube"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Vigoroth",
+    "illustrateur": "Kurata So"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Monaflèmit ex",
+    "illustrateur": "PLANETA Igarashi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Tylton",
+    "illustrateur": "sowsow"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Mangriff",
+    "illustrateur": "Ligton"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Kecleon",
+    "illustrateur": "Shinji Kanda"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Frison",
+    "illustrateur": "Anesaki Dynamic"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Furaiglon",
+    "illustrateur": "Nakamura Ippan"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Gueriaigle",
+    "illustrateur": "Anesaki Dynamic"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Galvaran",
+    "illustrateur": "miki kudo"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Iguolta",
+    "illustrateur": "Ryota Murayama"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Gouroutan",
+    "illustrateur": "Saboteri"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Compagnol",
+    "illustrateur": "USGMEN"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Famignol",
+    "illustrateur": "DOM"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Motorizard ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Flamenroule ex",
+    "illustrateur": "N-DESIGN Inc."
+  },
+  {
+    "serie": "SSP",
+    "nom": "Terapagos",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Amulette de l'Espoir",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Baie Babiri",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "SSP",
+    "nom": "Mixeur Brillant",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Sonnette d'Appel",
+    "illustrateur": "Ayaka Yoshida"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Jouet Plumeau",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Esprit Vif de Lem",
+    "illustrateur": "Naoki Saito"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Baie Lampou",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "SSP",
+    "nom": "Rattrape-Riposte",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Cyano",
+    "illustrateur": "Akira Komayama"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Kit de Déduction",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Élixir de Dragon",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Dracéna",
+    "illustrateur": "Hideki Ishikawa"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Irido",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Sombre Ball",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "SSP",
+    "nom": "Recherche d'Énergie Pro",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Montagne Gravité",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Regard de Jasmine",
+    "illustrateur": "Taira Akitsu"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Charme d'Atalante",
+    "illustrateur": "En Morikura"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Stade en Liesse",
+    "illustrateur": "imoniii"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Note d'Ingérence",
+    "illustrateur": "Ayaka Yoshida"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Souffleur Titanesque",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Casque Miracle",
+    "illustrateur": "inose yukie"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Baie Pocpoc",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "SSP",
+    "nom": "Chariot Précieux",
+    "illustrateur": "inose yukie"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Échange Combiné",
+    "illustrateur": "Ayaka Yoshida"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Surfeur",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Capsule Technique : Fluorine",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "SSP",
+    "nom": "Orbe Téracristal",
+    "illustrateur": "Ayaka Yoshida"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Thaïm",
+    "illustrateur": "Akira Komayama"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Énergie Enrichissante",
+    "illustrateur": "—"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Noeunoeuf",
+    "illustrateur": "Yuriko Akase"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Prismillon",
+    "illustrateur": "REND"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Lampignon",
+    "illustrateur": "matazo"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Morphéo Soleil",
+    "illustrateur": "Narano"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pyronille",
+    "illustrateur": "Whisker"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Malvalame",
+    "illustrateur": "Rond"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Barpau",
+    "illustrateur": "Kuroimori"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Obalie",
+    "illustrateur": "miki kudo"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Denticrisse",
+    "illustrateur": "Mitsuhiro Arita"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Balbalèze",
+    "illustrateur": "Jerky"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Limonde",
+    "illustrateur": "N-DESIGN Inc."
+  },
+  {
+    "serie": "SSP",
+    "nom": "Latios",
+    "illustrateur": "OKACHEKE"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Créfollet",
+    "illustrateur": "HYOGONOSUKE"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Phanpy",
+    "illustrateur": "Saboteri"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Vibraninf",
+    "illustrateur": "toriyufu"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Poulpaf",
+    "illustrateur": "USGMEN"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Triopikeur d'Alola",
+    "illustrateur": "Yukihiro Tada"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Airmure",
+    "illustrateur": "Takumi Wada"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pomdrapi",
+    "illustrateur": "Uninori"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Dratatin",
+    "illustrateur": "MINAMINAMI Take"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Parecool",
+    "illustrateur": "Mékayu"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Kecleon",
+    "illustrateur": "Mori Yuu"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Gueriaigle",
+    "illustrateur": "Gapao"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Fermite ex",
+    "illustrateur": "PLANETA Tsuji"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Scovilain ex",
+    "illustrateur": "PLANETA Igarashi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Milobellus ex",
+    "illustrateur": "N-DESIGN Inc."
+  },
+  {
+    "serie": "SSP",
+    "nom": "Kyurem Noir ex",
+    "illustrateur": "N-DESIGN Inc."
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pikachu ex",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Latias ex",
+    "illustrateur": "takuyoa"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Trépassable ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Libégon ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Trioxhydre ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pondralugon ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Noadkoko d'Alola ex",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Nigirigon ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Monaflèmit ex",
+    "illustrateur": "PLANETA Igarashi"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Motorizard ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Esprit Vif de Lem",
+    "illustrateur": "Naoki Saito"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Cyano",
+    "illustrateur": "Akira Komayama"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Dracéna",
+    "illustrateur": "Hideki Ishikawa"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Irido",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Regard de Jasmine",
+    "illustrateur": "Taira Akitsu"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Charme d'Atalante",
+    "illustrateur": "En Morikura"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Surfeur",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Fermite ex",
+    "illustrateur": "osare"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Milobellus ex",
+    "illustrateur": "Kuroimori"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pikachu ex",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Latias ex",
+    "illustrateur": "OKACHEKE"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Trioxhydre ex",
+    "illustrateur": "AKIRA EGAWA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pondralugon ex",
+    "illustrateur": "Shinya Mizuno"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Noadkoko d'Alola ex",
+    "illustrateur": "Yuriko Akase"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Esprit Vif de Lem",
+    "illustrateur": "Shinya Mizuno"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Irido",
+    "illustrateur": "DOM"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Regard de Jasmine",
+    "illustrateur": "Fujimoto Gold"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Charme d'Atalante",
+    "illustrateur": "Nobusawa/Mochipuyo"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Pikachu ex",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Noadkoko d'Alola ex",
+    "illustrateur": "aky CG Works"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Rattrape-Riposte",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Montagne Gravité",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Civière Nocturne",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "SSP",
+    "nom": "Énergie Propulsion",
+    "illustrateur": "—"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Florizarre ex",
+    "illustrateur": "Saki Hayashiro"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Coxy",
+    "illustrateur": "Whisker"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Coxyclaque",
+    "illustrateur": "Masako Tomii"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Celebi",
+    "illustrateur": "satoma"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lilia",
+    "illustrateur": "Ounishi"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Vacilys",
+    "illustrateur": "miki kudo"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Vortente",
+    "illustrateur": "Mousho"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Motisma Tonte",
+    "illustrateur": "Amelicart"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Larvibule",
+    "illustrateur": "Jerky"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Tournicoton",
+    "illustrateur": "Heisuke Kitazawa"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Blancoton",
+    "illustrateur": "Yuka Tanaka"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Verpom",
+    "illustrateur": "Yoriyuki Ikegami"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pomdramour",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pomdorochi ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lilliterelle",
+    "illustrateur": "HYOGONOSUKE"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Gambex",
+    "illustrateur": "akagi"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Terracool",
+    "illustrateur": "Tetsu Kayama"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Terracruel",
+    "illustrateur": "DOM"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Ponyta",
+    "illustrateur": "Atsushi Furusawa"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Galopa",
+    "illustrateur": "danciao"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Flamajou",
+    "illustrateur": "0313"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Reshiram",
+    "illustrateur": "Iwamoto05"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Tritox",
+    "illustrateur": "Felicia Chen"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Malamandre",
+    "illustrateur": "Taiga Kasai"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Boumata",
+    "illustrateur": "AKIRA EGAWA"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Flambino",
+    "illustrateur": "Cona Nitanda"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lapyro",
+    "illustrateur": "aspara"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pyrobut ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Charbambin",
+    "illustrateur": "Krgc"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Tortank ex",
+    "illustrateur": "PLANETA Igarashi"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lokhlass",
+    "illustrateur": "rika"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lokhlass ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Marill",
+    "illustrateur": "MARINA Chikazawa"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Azumarill",
+    "illustrateur": "Jerky"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Écayon",
+    "illustrateur": "Yukiko Baba"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Luminéon",
+    "illustrateur": "Shigenori Negishi"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Carapagos",
+    "illustrateur": "takashi shiraishi"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Mégapagos",
+    "illustrateur": "LINNE"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Grenousse",
+    "illustrateur": "MINAMINAMI Take"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Croâporal",
+    "illustrateur": "Ryuta Fuse"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Amphinobi ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Crabominable",
+    "illustrateur": "nagimiso"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Khélocrok",
+    "illustrateur": "Yuka Morii"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Torgamord",
+    "illustrateur": "Dsuke"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Délestin",
+    "illustrateur": "GOTO minori"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Élektek",
+    "illustrateur": "Oswaldo KATO"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Élekable",
+    "illustrateur": "chibi"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Loupio",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lanturn",
+    "illustrateur": "Akira Komayama"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Statitik",
+    "illustrateur": "Nisota Niso"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Mygavolt ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Chrysapile",
+    "illustrateur": "Makura Tami"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lucanon",
+    "illustrateur": "Shiburingaru"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Togedemaru",
+    "illustrateur": "Rianti Hidayat"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Zeraora",
+    "illustrateur": "Anesaki Dynamic"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pohm",
+    "illustrateur": "Natsumi Yoshida"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Ramoloss",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Roigada",
+    "illustrateur": "Tetsu Kayama"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Mewtwo",
+    "illustrateur": "kantaro"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Baudrive",
+    "illustrateur": "Miki Tanaka"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Grodrive",
+    "illustrateur": "sowsow"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Tutafeh",
+    "illustrateur": "aoki"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Guérilande",
+    "illustrateur": "saino misaki"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Crèmy",
+    "illustrateur": "OKACHEKE"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Charmilly",
+    "illustrateur": "Natsumi Yoshida"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pâtachiot",
+    "illustrateur": "Narumi Sato"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Briochien ex",
+    "illustrateur": "You Iribi"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Flotillon",
+    "illustrateur": "Yuu Nishida"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Cléopsytra",
+    "illustrateur": "Ryota Murayama"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Toutombe",
+    "illustrateur": "Miki Tanaka"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Roc-de-Fer",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Osselait",
+    "illustrateur": "svlt"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Ossatueur",
+    "illustrateur": "cochi8i"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Rhinocorne",
+    "illustrateur": "kodama"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Rhinoféros",
+    "illustrateur": "Ryuta Fuse"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Rhinastoc",
+    "illustrateur": "Mitsuhiro Arita"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Meditikka",
+    "illustrateur": "GOTO minori"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Meditikka",
+    "illustrateur": "Yuu Nishida"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Charmina",
+    "illustrateur": "Fujimoto Gold"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Charmina ex",
+    "illustrateur": "PLANETA Yamashita"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Riolu",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lucario ex",
+    "illustrateur": "PLANETA Igarashi"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Kungfouine",
+    "illustrateur": "Kariya"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Shaofouine",
+    "illustrateur": "MINAMINAMI Take"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pandespiègle",
+    "illustrateur": "Tomomi Ozaki"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Diancie",
+    "illustrateur": "Jiro Sasumo"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Crabagarre",
+    "illustrateur": "Scav"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Hexadron",
+    "illustrateur": "Gapao"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Gigansel ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Koraidon",
+    "illustrateur": "kawayoo"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Gloupti",
+    "illustrateur": "Shimaris Yukichi"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Avaltout",
+    "illustrateur": "OKACHEKE"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pandarbare",
+    "illustrateur": "KEIICHIRO ITO"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Grimalin",
+    "illustrateur": "Tomokazu Komiya"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Fourbelin",
+    "illustrateur": "Mékayu"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Angoliath",
+    "illustrateur": "Kazumasa Yasukuni"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lestombaile",
+    "illustrateur": "Aya Kusube"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Jirachi",
+    "illustrateur": "Kuroimori"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Tic",
+    "illustrateur": "osare"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Clic",
+    "illustrateur": "Mina Nakai"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Cliticlic",
+    "illustrateur": "Tonji Matsuno"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Meltan",
+    "illustrateur": "Yuka Morii"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Meltan",
+    "illustrateur": "Apios"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Melmetal",
+    "illustrateur": "Takumi Wada"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Melmetal ex",
+    "illustrateur": "takuyoa"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Duralugon",
+    "illustrateur": "Takeshi Nakamura"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pondralugon",
+    "illustrateur": "Oswaldo KATO"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Vrombi",
+    "illustrateur": "Shiburingaru"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Vrombotor",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Ferdeter ex",
+    "illustrateur": "PLANETA Yamashita"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Ire-Foudre",
+    "illustrateur": "kodama"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Tauros",
+    "illustrateur": "Uninori"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Évoli",
+    "illustrateur": "Mina Nakai"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Hoothoot",
+    "illustrateur": "Yukihiro Tada"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Noarfang",
+    "illustrateur": "matazo"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Chaglam",
+    "illustrateur": "Yuriko Akase"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Chaffreux",
+    "illustrateur": "Saboteri"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Motisma Hélice",
+    "illustrateur": "Toshinao Aoki"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Frison",
+    "illustrateur": "GOSSAN"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Boréas",
+    "illustrateur": "Uninori"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Passerouge",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Braisillon",
+    "illustrateur": "Julie Hang"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Flambusard",
+    "illustrateur": "Nurikabe"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Moumouton",
+    "illustrateur": "Wintr Wandr"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Moumouflon",
+    "illustrateur": "HYOGONOSUKE"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Gourmelet",
+    "illustrateur": "REND"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Motorizard",
+    "illustrateur": "Nurikabe"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Terapagos ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Fossile Plaque Ancien",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Fossile Racine Ancien",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Abîme Zéro",
+    "illustrateur": "MARINA Chikazawa"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Bria",
+    "illustrateur": "Naoki Saito"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Rubépin",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Bombe Deluxe",
+    "illustrateur": "inose yukie"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Trompette de Verre",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Arbre Majestueux",
+    "illustrateur": "AYUMI ODASHIMA"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Gemme Gravité",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Kombu",
+    "illustrateur": "Hideki Ishikawa"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Taro",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Baie Chocco",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "SCR",
+    "nom": "Baie Yapap",
+    "illustrateur": "Studio Bora Inc."
+  },
+  {
+    "serie": "SCR",
+    "nom": "Cristal Scintillant",
+    "illustrateur": "Toyste Beach"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Bulbizarre",
+    "illustrateur": "Orca"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Coxyclaque",
+    "illustrateur": "HYOGONOSUKE"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lilia",
+    "illustrateur": "Mori Yuu"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Boumata",
+    "illustrateur": "Yukihiro Tada"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lapyro",
+    "illustrateur": "rika"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Carapuce",
+    "illustrateur": "Saboteri"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Crabominable",
+    "illustrateur": "Mitsuhiro Arita"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Statitik",
+    "illustrateur": "MARINA Chikazawa"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Zeraora",
+    "illustrateur": "Kazumasa Yasukuni"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Crèmy",
+    "illustrateur": "Dsuke"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Meditikka",
+    "illustrateur": "Yuriko Akase"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Gloupti",
+    "illustrateur": "Jerky"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pondralugon",
+    "illustrateur": "Toshinao Aoki"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pomdorochi ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pyrobut ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Lokhlass ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Mygavolt ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Briochien ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Charmina ex",
+    "illustrateur": "PLANETA Yamashita"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Ferdeter ex",
+    "illustrateur": "PLANETA Mochizuki"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Bria",
+    "illustrateur": "Naoki Saito"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Rubépin",
+    "illustrateur": "GIDORA"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Kombu",
+    "illustrateur": "Hideki Ishikawa"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Taro",
+    "illustrateur": "Sanosuke Sakuma"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Pomdorochi ex",
+    "illustrateur": "Teeziro"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Mygavolt ex",
+    "illustrateur": "MARINA Chikazawa"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Briochien ex",
+    "illustrateur": "Yuu Nishida"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Terapagos ex",
+    "illustrateur": "Saboteri"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Bria",
+    "illustrateur": "DOM"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Taro",
+    "illustrateur": "Souichirou Gunjima"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Terapagos ex",
+    "illustrateur": "5ban Graphics"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Abîme Zéro",
+    "illustrateur": "MARINA Chikazawa"
+  },
+  {
+    "serie": "SCR",
+    "nom": "Amulette Bravoure",
+    "illustrateur": "Toyste Beach"
+  }
+]
