@@ -3,9 +3,19 @@
 __pycache__/
 *.pyc
 
-# Node/React
+# Node modules (si jamais tu fais du JS côté back)
 node_modules/
-front/node_modules/
-front/.next/
-front/dist/
-front/build/
+
+# Fichiers de build
+dist/
+.env
+*.log
+
+# Données locales
+cards.json
+mongo-data/
+debug_selenium.html
+
+# Fichiers système
+.DS_Store
+Thumbs.db
